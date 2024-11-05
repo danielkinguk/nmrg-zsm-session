@@ -1,7 +1,13 @@
 A joint meeting between IETF NMRG and ETSI ZSM to discuss Network Digital Twins.
 
-Location Info [TBA]
+Date: 9 November 2024
 
-Agenda [TBA]
+Time: 09:30 to 17:00
 
-Materials [TBA]
+Location: TRiSS Seminar Room, Trinity Collage, Dublin
+
+Detailed Location Info [Link]
+
+Agenda [Link]
+
+Materials [Link]
