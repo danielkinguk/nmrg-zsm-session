@@ -1,6 +1,6 @@
 Meeting location.
 
-TRiSS Seminar Room
+TRiSS Seminar Room, 
 6th Floor of the Arts Building
 Trinity College 
 Dublin
