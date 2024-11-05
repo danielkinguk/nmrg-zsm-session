@@ -1,4 +1,4 @@
-A joint meeting between IETF NMRG and ETSI ZSM to discuss Network Digital Twins.
+### A joint meeting between IETF NMRG and ETSI ZSM to discuss Network Digital Twins.
 
 Date: 9 November 2024
 
