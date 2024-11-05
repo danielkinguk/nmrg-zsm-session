@@ -1,9 +1,12 @@
 
-- Introduction by ZSM, Diego
+## Introduction by ETSI ZSM
+Diego
 
-- Introduction by NMRG, Laurent/Jerome
+## Introduction by NMRG
+Laurent/Jerome
 
-- A view of NDT from ZSM, Fernando
+## A view of NDT from ZSM
+Fernando
 
 - A view of NDT from NMRG side, Qin
 
