@@ -14,6 +14,9 @@ Fernando
 ### A view of NDT from NMRG side
 Qin
 
+## NDT: Reconciling ZSM & NMRG Views
+Chris
+
 ### A Standards-based Approach for Network Digital Twins
 Dan
 
