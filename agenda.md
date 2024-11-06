@@ -1,3 +1,6 @@
+## Joint NMRG & ZSM Session Agenda
+November 9, 2024
+Time: 09:30 to 17:00
 
 ### Introduction by ETSI ZSM
 Diego
