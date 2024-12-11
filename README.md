@@ -12,4 +12,5 @@ Agenda [[Link](https://github.com/danielkinguk/nmrg-zsm-session/blob/main/agenda
 
 Minutes & Output [[Link]](https://etherpad.wikimedia.org/p/nmrg-zsm-session-9-nov-2024)
 
-Materials [Link]
+Supported by the UK Department for Science, Innovation and Technology under the Future Open Networks Research
+Challenge project TUDOR (Towards Ubiquitous 3D Open Resilient Network)
